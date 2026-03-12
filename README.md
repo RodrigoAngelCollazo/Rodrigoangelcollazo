@@ -9,11 +9,7 @@ Driven by the intersection of **Statistical Quality (Six Sigma)** and **Scalable
 * **Process:** Kaizen Frameworks, TDD (Red-Green-Refactor), Yellow Belt Standards
 * **Tools:** Google Antigravity & Jules, CI/CD Automation, MQTT
 
-### 📂 Featured Projects
-* **[HydroLoop Smart Recovery](../hydroloop-smart-recovery)**: Automated water level and quality monitoring system using Python and MQTT.
-* **[Six Sigma Kata Sentinel](../six-sigma-kata-sentinel)**: A high-integrity framework integrating DPMO metrics into code quality workflows.
-* **[Kanban Physics Engine](../kanban-physics-engine)**: Exploring the application of physical properties like friction and entropy to social/work nodes.
-* **[Eco-Site-Arg](../eco-site-arg)**: Deployed sustainability platform focusing on high-integrity architecture.
+
 
 ### 📊 Methodologies
 I operate on a **Kaizen-Sigma** methodology—continuously refining code through statistical feedback and strict TDD cycles to minimize defects and maximize system longevity.
