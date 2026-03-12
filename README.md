@@ -19,4 +19,3 @@ Driven by the intersection of **Statistical Quality (Six Sigma)** and **Scalable
 I operate on a **Kaizen-Sigma** methodology—continuously refining code through statistical feedback and strict TDD cycles to minimize defects and maximize system longevity.
 
 ---
-📫 [LinkedIn](YOUR_LINKEDIN_URL) | 🏗 [Connect via GitHub](https://github.com/RodrigoAngelCollazo)
