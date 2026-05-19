@@ -20,8 +20,6 @@
 
 ## Executive Summary
 
-My practice is built around eliminating that failure mode. I architect and orchestrate multi-track AI programs where governance is a first-class engineering artifact — version-controlled, independently deployable, and enforced at the architectural layer rather than managed by human review cycles. By embedding Six Sigma statistical process control and Kaizen continuous improvement directly into system design, I deliver AI assets that are not just functional, but measurably stable, auditable by compliance, and reconfigurable without downtime.
-
 Across Fintech, Last-Mile Logistics, and Enterprise SaaS, I have led the full AI delivery lifecycle: from roadmap definition and cross-functional track orchestration through production hardening and ongoing performance governance. My programs are structured around a single operational guarantee — that every autonomous system shipped under my direction operates within explicitly defined risk boundaries, emits structured observability telemetry, and can be recalibrated through policy change alone without redeployment. This is the standard I hold for AI delivery at scale: not just shipping models, but building the programmatic infrastructure that makes those models safe, predictable, and economically defensible in production.
 
 ---
